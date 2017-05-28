@@ -1,0 +1,199 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+.topbar {
+position:absolute;
+display: block;
+background-color: #365998;
+width: 100%;
+top:0;
+left:0;
+font-size: 12px;
+color: white;
+height:83px;
+z-index:7;
+font-family:Helvetica, Arial, sans-serif;
+}
+#sfimg {
+	position:absolute;
+	left:170px;
+	top:-10px;
+	}
+#dataleft{	left:770px;
+	height:60px;
+	width:100px;
+	top:20px;
+	}
+#dataright{	left:960px;
+	height:60px;
+	width:150px;
+	top:20px;
+	}
+	a:link {
+color:#9cb4d8;
+}
+.loginbox{
+	left:1150px;
+	top:35px;
+	background:#4267b2;
+	color:white;
+	font-size:12px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	position:absolute;
+	z-index:20;
+	height:22px;
+	width:50px;
+	cursor:pointer;
+	border-color:#29487d;
+	border-width:1px;
+	}
+.databox
+{
+position:absolute;
+left:0;
+top:83px;
+display:block;
+font-family:Helvetica, Arial, sans-serif;
+height:470px;
+width:100%;
+background-color:#e2e2ea;
+}
+
+#connect{left:180px;
+top:40px;
+color:0E385F;
+display:block;
+font-size:20px;
+font-family:Helvetica, Arial, sans-serif;
+width:450px;
+word-spacing:-1px;
+font-weight:bold;
+height:58px;
+}
+
+#info1{
+	left:770px;
+	top:20px;
+	font-size:36px;
+	color:#333;
+	font-weight:bold;
+	height:75px;
+	width:350px;}
+#info2{
+	left:770px;
+	top:70px;
+	font-size:19px;
+	color:#1d2129;
+	font-weight:normal;
+	height:0px;
+	width:300px;}
+#namebox{
+	left:770px;
+	top:115px;
+	width:172px;
+	height:22px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	font-size:18px;
+	padding:9px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: #bdc7d8;
+}
+#surnamebox{
+	left:975px;
+	top:115px;
+	width:172px;
+	height:22px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	font-size:18px;
+	padding:9px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: #bdc7d8;
+
+}
+#mailbox{
+	top:165px;
+	left:770px;
+	width:377px;
+	height:22px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	font-size:18px;
+	padding:9px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: #bdc7d8;
+
+}
+#passbox{
+	top:215px;
+	left:770px;
+	width:377px;
+	height:22px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	font-size:18px;
+	padding:9px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: #bdc7d8;
+
+}
+#info3{
+	left:770px;
+	top:285px;
+	font-size:11px;
+	color:#777;
+	height:0px;
+	width:316px;}
+#account{
+	width:250px;
+	height:40px;
+	left:770px;
+	top:360px;
+	background:#69a74e;
+	font-family:'Freight Sans Bold', Helvetica, Arial, sans-serif ;
+	font-size:19px;
+	color:#fff;
+	border-radius:5px 5px 5px 5px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: #3b6e22;
+	cursor:pointer;
+	outline:none;
+	
+}
+#info4{
+	left:770px;
+	top:430px;
+	font-size:13px;
+	font-weight:bold;
+	color:#666;
+	height:17px;
+	width:316px;}
+a:link {
+    color: #0066CC; 
+	text-decoration: none;
+}
+.footerbox
+{position:absolute;
+left:0;
+top:553px;
+display:block;
+font-family:Helvetica, Arial, sans-serif;
+width:100%;
+background-color:white;
+}
+#footerlang
+{	left:190px;
+	top:5px;
+	font-size:12px;
+	cursor:pointer;
+	word-spacing:6px;
+}
